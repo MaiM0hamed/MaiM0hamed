@@ -2,34 +2,27 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Mai+Mohamed....;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Mai+Mohamed....;AI+Engineer+%26+LLM+Engineer;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
 
 <h5 align="center">
-  <code><a href="https://eg.linkedin.com/in/mai-mohamed-2a1b7b211" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://github.com/MaiM0hamed" title="GitHub Profile"><img width="22" src="images/github.svg"> GitHub</a></code>
+  <code><a href="https://eg.linkedin.com/in/mai-mohamed-2a1b7b211" title="LinkedIn Profile"><img width="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"> LinkedIn</a></code>
+  <code><a href="https://github.com/MaiM0hamed" title="GitHub Profile"><img width="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"> GitHub</a></code>
 </h5>
 
 <br>
 
 <p align="center">
-  Hi, I'm <b>Mai Mohamed</b>, AI Engineer & Machine Learning Engineer from Egypt 🇪🇬
-  <br>
-  <br>
-  🤖 I specialize in Machine Learning, Deep Learning, NLP, LLMs & AI Agents
-  <br>
-  🎓 Bachelor's degree in Biomedical Engineering – El-Shorouk Academy
-  <br>
-  🧠 Experienced with LLM fine-tuning, RAG systems, Speech-to-Text (STT), and end-to-end AI solutions
-  <br>
-  🛠️ Worked on real-world AI projects: fraud detection, smart assistive systems for visually impaired, and Arabic voice ordering agent
-  <br>
-  📚 I’m currently learning more about building production-ready AI agents, MLOps, and scalable LLM applications
-  <br>
-  💬 Ask me anything about Machine Learning, NLP, LLMs, RAG, and AI project deployment
-  <br>
-  📫 How to reach me: <a href="mailto:maimohamed999999@gmail.com">maimohamed999999@gmail.com</a>
+  Hi, I'm <b>Mai Mohamed</b>, AI Engineer & LLM Engineer from Egypt 🇪🇬
+  <br><br>
+  🤖 I specialize in Machine Learning, Deep Learning, NLP, LLMs & AI Agents  
+  🎓 Bachelor's degree in Biomedical Engineering
+  🧠 Experienced in LLM fine-tuning, RAG pipelines, STT/TTS, and end-to-end AI applications  
+  ⚡ Worked on real-world AI projects: fraud detection, smart assistive system for visually impaired, and Arabic voice ordering agent  
+  📚 Currently learning more about MLOps, scalable LLM deployment & custom AI agents  
+  💬 Ask me anything about Machine Learning, NLP, LLMs, RAG & AI project deployment  
+  📫 Email: <a href="mailto:maimohamed999999@gmail.com">maimohamed999999@gmail.com</a>
 </p>
 
 <hr>
@@ -38,39 +31,49 @@
 <br>
 
 <p align="center">
-  <!-- Programming Languages -->
-  <code><img title="Python" height="25" src="images/python-original.svg"></code>
-  <code><img title="C++" height="25" src="images/cpp.svg"></code>
-  <code><img title="C" height="25" src="images/c.svg"></code>
-  <code><img title="SQL" height="25" src="images/mysql.svg"></code>
-  <code><img title="MATLAB" height="25" src="images/matlab.png"></code>
 
-  <!-- ML / DL / Data -->
-  <code><img title="Pandas" height="25" src="images/pandas.png"></code>
-  <code><img title="NumPy" height="25" src="images/numpy.png"></code>
-  <code><img title="Matplotlib" height="25" src="images/matplotlib.png"></code>
-  <code><img title="Seaborn" height="25" src="images/seaborn.png"></code>
-  <code><img title="TensorFlow" height="25" src="images/tensorflow.png"></code>
-  <code><img title="Keras" height="25" src="images/keras.png"></code>
-  <code><img title="PyTorch" height="25" src="images/pytorch.png"></code>
+  <!-- Programming -->
+  <img height="30" title="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img height="30" title="C++" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
+  <img height="30" title="C" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+  <img height="30" title="SQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+  <img height="30" title="MATLAB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg">
 
-  <!-- AI / NLP / LLMs -->
-  <code><img title="NLP" height="25" src="images/nlp.png"></code>
-  <code><img title="Transformers" height="25" src="images/transformers.png"></code>
-  <code><img title="LangChain" height="25" src="images/langchain.png"></code>
-  <code><img title="Hugging Face" height="25" src="images/huggingface.png"></code>
+  <br><br>
 
-  <!-- Web / Apps -->
-  <code><img title="Flask" height="25" src="images/flask.png"></code>
-  <code><img title="Streamlit" height="25" src="images/streamlit.png"></code>
+  <!-- ML / DL -->
+  <img height="30" title="Pandas" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg">
+  <img height="30" title="NumPy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">
+  <img height="30" title="Matplotlib" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg">
+  <img height="30" title="Seaborn" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg">
+  <img height="30" title="TensorFlow" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg">
+  <img height="30" title="PyTorch" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg">
+  <img height="30" title="Keras" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg">
+
+  <br><br>
+
+  <!-- NLP / LLM / Agents -->
+  <img height="30" title="Transformers" src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg">
+  <img height="30" title="HuggingFace" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/huggingface/huggingface-original.svg">
+  <img height="30" title="LangChain" src="https://raw.githubusercontent.com/chainyo/icons/master/langchain-icon-light.svg">
+  <img height="30" title="NLP" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nltk/nltk-original.svg">
+
+  <br><br>
+
+  <!-- Web Frameworks -->
+  <img height="30" title="Flask" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg">
+  <img height="30" title="Streamlit" src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.svg">
+
+  <br><br>
 
   <!-- Tools -->
-  <code><img title="Git" height="25" src="images/git-original.svg"></code>
-  <code><img title="GitHub" height="25" src="images/github.svg"></code>
-  <code><img title="Power BI" height="25" src="images/powerbi.png"></code>
-  <code><img title="Tableau" height="25" src="images/tableau.png"></code>
-  <code><img title="Azure" height="25" src="images/azure.png"></code>
-  <code><img title="MLflow" height="25" src="images/mlflow.png"></code>
+  <img height="30" title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img height="30" title="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+  <img height="30" title="Power BI" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg">
+  <img height="30" title="Tableau" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg">
+  <img height="30" title="Azure" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg">
+  <img height="30" title="MLflow" src="https://mlflow.org/docs/latest/_static/MLflow-logo-final-black.png">
+
 </p>
 
 <hr>
@@ -80,20 +83,14 @@
 
 <p align=center>
   <div align=center>
-    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 src="https://streak-stats.demolab.com/?user=MaiM0hamed&theme=react&border=61dafb&hide_border=true" alt="MaiM0hamed" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=MaiM0hamed&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-    </a>
+    <img align="left" width=390 src="https://streak-stats.demolab.com/?user=MaiM0hamed&theme=react&border=61dafb&hide_border=true" />
+    <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=MaiM0hamed&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
   </div>
 
   <br><br><br><br><br><br><br><br><br>
 
   <div align=center>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaiM0hamed&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
-    </a>
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaiM0hamed&hide=c%23,powershell,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
   </div>
 
   <br>
@@ -120,25 +117,6 @@
 
 <br/><br/><br/><br/><br/><br/>
 
-<div width="100%" align="center">
-  <!-- لو حابة تضيفي مشروع تالت أو رابع بعدين غيري الروابط تحت -->
-  <a align="left" href="https://github.com/MaiM0hamed?tab=repositories" title="More Projects">
-    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=MaiM0hamed&repo=MaiM0hamed&theme=react&border_color=61dafb&border_radius=10">
-  </a>
-</div>
-
-<br/><br/><br/><br/><br/><br/>
-
 <h4 align="center">
   <a href="https://github.com/MaiM0hamed?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
-
-<!--
-Notes for future edits:
-
-- You can change the skills icons inside the "Languages & Frameworks & Tools & Abilities" section.
-- If some images don't load (like pandas, numpy, etc.), just add the matching icons in the /images folder
-  or remove the ones you don't need.
-- You can pin more repositories in the "Projects" section by copying the same <a> block and changing
-  the repo name.
--->

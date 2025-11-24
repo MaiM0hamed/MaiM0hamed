@@ -18,7 +18,7 @@ Hi, I'm <b>Mai Mohamed</b>, AI Engineer & LLM Engineer from Egypt 🇪🇬
 🎓 Bachelor's degree in Biomedical Engineering  
 👩‍🏫 I teach software & AI topics at TimeDoor and Udacity  
 🍀 Solved <b>220+ Data Structures & Algorithms</b> coding problems  
-🧠 Experienced in LLM fine-tuning, RAG pipelines, STT/TTS, forecasting & end-to-end AI systems  
+🧠 Experienced in LLM fine-tuning, RAG pipelines, STT/TTS, forecasting & production AI  
 ⚡ Real AI Projects: Fraud Detection, Assistive Vision AI Glasses, Arabic Voice Ordering Agent, Customer Support AI Agent  
 💬 Ask me anything about ML, NLP, LLMs, RAG & agent-based AI  
 📩 Email: <a href="mailto:maimohamed999999@gmail.com">maimohamed999999@gmail.com</a>
@@ -27,10 +27,11 @@ Hi, I'm <b>Mai Mohamed</b>, AI Engineer & LLM Engineer from Egypt 🇪🇬
 
 <hr>
 
+<h2 align="center">🔥 Skills – Languages – Frameworks – Tools 🔥</h2>
+
 <p align="center">
 
-<!-- FULL INLINE ICONS EXACTLY LIKE YOUR SCREENSHOT + COMPLETED -->
-
+<!-- FULL INLINE LOGOS (WORKING 100%) -->
 <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
 <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"/>
 <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"/>
@@ -51,6 +52,30 @@ Hi, I'm <b>Mai Mohamed</b>, AI Engineer & LLM Engineer from Egypt 🇪🇬
 <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"/>
 <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg"/>
 <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg"/>
+
+</p>
+
+<!-- TEXT SKILLS SECTION -->
+<h3 align="center">✨ My Technical Skills ✨</h3>
+
+<p align="center">
+
+<b>➡ Machine Learning</b> ·  
+<b>Deep Learning</b> ·  
+<b>NLP</b> ·  
+<b>Large Language Models (LLMs)</b> ·  
+<b>AI Agents</b> ·  
+<b>RAG (Retrieval Augmented Generation)</b> ·  
+<b>Time-Series Forecasting</b> ·  
+<b>STT/TTS</b> ·  
+<b>Model Evaluation & Optimization</b> ·  
+<b>Data Analysis</b> ·  
+<b>Visualization</b> ·  
+<b>API Development (FastAPI)</b> ·  
+<b>Docker</b> ·  
+<b>Kubernetes</b> ·  
+<b>Azure Cloud</b> ·  
+<b>ETL Pipelines</b>
 
 </p>
 

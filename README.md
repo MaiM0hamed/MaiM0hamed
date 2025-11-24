@@ -17,7 +17,7 @@
   Hi, I'm <b>Mai Mohamed</b>, AI Engineer & LLM Engineer from Egypt 🇪🇬
   <br><br>
   🤖 I specialize in Machine Learning, Deep Learning, NLP, LLMs & AI Agents  
-  🎓 Bachelor's degree in Biomedical Engineering
+  🎓 Bachelor's degree in Biomedical Engineering  
   🧠 Experienced in LLM fine-tuning, RAG pipelines, STT/TTS, and end-to-end AI applications  
   ⚡ Worked on real-world AI projects: fraud detection, smart assistive system for visually impaired, and Arabic voice ordering agent  
   📚 Currently learning more about MLOps, scalable LLM deployment & custom AI agents  
@@ -30,50 +30,46 @@
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
 
+<table align="center">
+  <tr>
+    <td align="center"><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"><br>Python</td>
+    <td align="center"><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"><br>C++</td>
+    <td align="center"><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"><br>C</td>
+    <td align="center"><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"><br>SQL</td>
+    <td align="center"><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg"><br>MATLAB</td>
+  </tr>
+  <tr>
+    <td align="center"><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"><br>NumPy</td>
+    <td align="center"><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"><br>Pandas</td>
+    <td align="center"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg"><br>Matplotlib</td>
+    <td align="center"><img height="30" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg"><br>Seaborn</td>
+    <td align="center"><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"><br>TensorFlow</td>
+  </tr>
+  <tr>
+    <td align="center"><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg"><br>PyTorch</td>
+    <td align="center"><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg"><br>Keras</td>
+    <td align="center"><img height="30" src="https://sklearn.org/stable/_static/scikit-learn-logo-small.png"><br>Scikit-learn</td>
+    <td align="center"><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg"><br>Flask</td>
+    <td align="center"><img height="30" src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.svg"><br>Streamlit</td>
+  </tr>
+</table>
+
+<br>
+
 <p align="center">
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFCC4D?style=for-the-badge&logo=huggingface&logoColor=000" />
+  <img src="https://img.shields.io/badge/Transformers-FF6F00?style=for-the-badge&logo=huggingface&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-0C7C59?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/NLP-3C3C3D?style=for-the-badge&logo=ai&logoColor=white" />
+</p>
 
-  <!-- Programming -->
-  <img height="30" title="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img height="30" title="C++" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
-  <img height="30" title="C" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  <img height="30" title="SQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  <img height="30" title="MATLAB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg">
-
-  <br><br>
-
-  <!-- ML / DL -->
-  <img height="30" title="Pandas" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg">
-  <img height="30" title="NumPy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">
-  <img height="30" title="Matplotlib" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg">
-  <img height="30" title="Seaborn" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg">
-  <img height="30" title="TensorFlow" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg">
-  <img height="30" title="PyTorch" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg">
-  <img height="30" title="Keras" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg">
-
-  <br><br>
-
-  <!-- NLP / LLM / Agents -->
-  <img height="30" title="Transformers" src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg">
-  <img height="30" title="HuggingFace" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/huggingface/huggingface-original.svg">
-  <img height="30" title="LangChain" src="https://raw.githubusercontent.com/chainyo/icons/master/langchain-icon-light.svg">
-  <img height="30" title="NLP" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nltk/nltk-original.svg">
-
-  <br><br>
-
-  <!-- Web Frameworks -->
-  <img height="30" title="Flask" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg">
-  <img height="30" title="Streamlit" src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.svg">
-
-  <br><br>
-
-  <!-- Tools -->
-  <img height="30" title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img height="30" title="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
-  <img height="30" title="Power BI" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg">
-  <img height="30" title="Tableau" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg">
-  <img height="30" title="Azure" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg">
-  <img height="30" title="MLflow" src="https://mlflow.org/docs/latest/_static/MLflow-logo-final-black.png">
-
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=000" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
 </p>
 
 <hr>
@@ -118,5 +114,4 @@
 <br/><br/><br/><br/><br/><br/>
 
 <h4 align="center">
-  <a href="https://github.com/MaiM0hamed?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
-</h4>
+  <a href="https://github.com/MaiM0hamed?tab=repositories" title="Show

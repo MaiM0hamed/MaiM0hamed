@@ -15,7 +15,7 @@
   Hi, I'm <b>Mai Mohamed</b>, AI Engineer & LLM Engineer from Egypt 🇪🇬  
   🤖 I specialize in Machine Learning, Deep Learning, NLP, LLMs & AI Agents  
   🎓 Bachelor's degree in Biomedical Engineering  
-  👩‍🏫 I teach software & AI topics at <b>TimeDoor</b> and <b>Udacity</b>  
+  👩‍🏫 I teach software & AI topics at <b>Udacity</b>  
   🧩 Solved <b>220+ Data Structures & Algorithms</b> coding problems  
   🧠 Experienced in LLM fine-tuning, RAG pipelines, STT/TTS, forecasting & end-to-end AI systems  
   ⚡ Real AI Projects: Fraud Detection, Assistive Vision AI Glasses, Arabic Voice Ordering Agent, Customer Support AI Agent  
